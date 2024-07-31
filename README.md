@@ -1,7 +1,7 @@
 # Keeper_App_-React_Project-
 Keeper App is an intuitive note-taking web application built using React. Designed to enhance productivity and organization, Keeper App allows users to create, store and delete their notes efficiently.
 This project was done in an Online Development Environment named CodeSandbox and not on the local system.
-Link to Sandbox=> https://codesandbox.io/p/sandbox/keeper-app-react-project-l242sr
+Link to Sandbox=> [https://codesandbox.io/p/sandbox/keeper-app-react-project-l242sr](https://codesandbox.io/embed/l242sr?view=editor+%2B+preview)
 Components=>
 1) CreateArea:- The CreateArea component in the Keeper App is responsible for capturing user input to create new notes. It features an expandable text area for writing note content and an input field for the note     
                title. This component ensures that notes are properly formatted before being added to the list of notes managed by the parent component.
