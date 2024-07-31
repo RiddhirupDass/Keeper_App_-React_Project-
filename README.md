@@ -5,8 +5,7 @@ Link to Sandbox=> [https://codesandbox.io/p/sandbox/keeper-app-react-project-l24
 Preview=> https://l242sr.csb.app/
 
 Components=>
-1) CreateArea:- The CreateArea component in the Keeper App is responsible for capturing user input to create new notes. It features an expandable text area for writing note content and an input field for the note     
-               title. This component ensures that notes are properly formatted before being added to the list of notes managed by the parent component.
+1) CreateArea:- The CreateArea component in the Keeper App is responsible for capturing user input to create new notes. It features an expandable text area for writing note content and an input field for the note title. This component ensures that notes are properly formatted before being added to the list of notes managed by the parent component.
 2) Note:- The Note component in the Keeper App is designed to display individual notes, each containing a title and content. It also provides a functionality to delete a note via a delete button.
 3) Header:- The Header component in the Keeper App serves as the top section of the application, providing a consistent and recognizable title bar.
 4) Footer:- The Footer component in the Keeper App is responsible for displaying a copyright notice at the bottom of the application.
