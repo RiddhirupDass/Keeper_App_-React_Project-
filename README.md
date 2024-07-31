@@ -11,7 +11,7 @@ Components=>
 3) Header:- The Header component in the Keeper App serves as the top section of the application, providing a consistent and recognizable title bar.
 4) Footer:- The Footer component in the Keeper App is responsible for displaying a copyright notice at the bottom of the application.
 5) App:- The App component is the main container of the Keeper App, orchestrating the overall structure and functionality by integrating various components.
-        Key Features:
+        Key Features->
         a) State Management: Uses React's useState to manage the array of notes.
         b) Header and Footer Integration: Incorporates the Header and Footer components for a consistent layout and structure.
         c) Note Creation: Includes the CreateArea component, allowing users to create and add new notes.
